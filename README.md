@@ -1,6 +1,4 @@
-Tecrübesiz kişiler için daha basit ve anlaşılır bir proje aşağıdaki gibi olabilir:
 
----
 
 **Mülakat 2. Aşama: Temel ROS2 ve Python Projesi**
 
@@ -37,7 +35,3 @@ ROS2'nin temel çalışma prensiplerini anlamak ve Python kullanarak basit bir m
 
 ### Teslim Süresi:
 - Proje için 3 gün süre verilmiştir.
-
----
-
-Bu proje, temel ROS2 ve Python becerilerini ölçmek için oldukça basit ve uygun olacaktır. Tecrübesiz adayların ROS2'nin temel mekanizmalarını öğrenip uygulayabilmelerini sağlar.
