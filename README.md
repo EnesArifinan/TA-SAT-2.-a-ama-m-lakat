@@ -34,4 +34,4 @@ ROS2'nin temel çalışma prensiplerini anlamak ve Python kullanarak basit bir m
 - Proje adımlarının düzgün bir şekilde belgelenmesi ve açıklanması.
 
 ### Teslim Süresi:
-- Proje için 3 gün süre verilmiştir.
+- Proje için 7 gün süre verilmiştir.
