@@ -24,14 +24,23 @@ ROS2'nin temel çalışma prensiplerini anlamak ve Python kullanarak basit bir m
    - Yaptığınız adımları, kullandığınız komutları ve projenin nasıl çalıştırılacağını açıklayan kısa bir doküman (README) oluşturun.
    - Yaptığınız çalışmanın ekran görüntülerini de ekleyin.
 
-5. **GitHub Üzerinde Paylaşım (Opsiyonel):**
-   - Eğer GitHub kullanmayı biliyorsanız, projeyi bir GitHub deposuna yükleyin. Bilmediğiniz durumda ise bu adım opsiyonel olabilir.
+5. **Sunum:**
+   - Yaptığınız bu projenin anlatılması.
+   - Linux İşletim Sistemi Kurulumu ve Kullanımı.
+   - Robotikte Python uygulamaalrı.
+   -  ROS2 Humble Kavramları
+         ROS2'ye Genel Bakış:
+
+         ROS2'nin yayın-abone (publisher-subscriber) modelini anlat. Yayıncılar mesajları konuya gönderir, aboneler bu mesajları alır.
+         ROS2 komutlarını tanıt: ros2 node list, ros2 topic echo gibi komutlarla node'ların nasıl iletişim kurduğunu açıkla.
+ - Simülasyon Programlar(Gazebo Simülasyonu)
 
 ### Değerlendirme Kriterleri:
 - ROS2'nin doğru bir şekilde kurulup çalıştırılması.
 - Python ile yazılmış basit ROS2 node’unun çalışıyor olması.
 - Terminale belirli aralıklarla mesaj yayını yapılması.
 - Proje adımlarının düzgün bir şekilde belgelenmesi ve açıklanması.
+- Sunumun da belirtildiği gibi araştırmaların yapılması.
 
 ### Teslim Süresi:
-- Proje için 7 gün süre verilmiştir.
+- Proje için 3 gün süre verilmiştir.
