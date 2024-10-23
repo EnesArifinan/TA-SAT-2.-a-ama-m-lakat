@@ -33,7 +33,7 @@ ROS2'nin temel çalışma prensiplerini anlamak ve Python kullanarak basit bir m
 
          ROS2'nin yayın-abone (publisher-subscriber) modelini anlat. Yayıncılar mesajları konuya gönderir, aboneler bu mesajları alır.
          ROS2 komutlarını tanıt: ros2 node list, ros2 topic echo gibi komutlarla node'ların nasıl iletişim kurduğunu açıkla.
- - Simülasyon Programlar(Gazebo Simülasyonu)
+  - Simülasyon Programları hakkında araştırma ve bilgi(Gazebo Simülasyonu)
 
 ### Değerlendirme Kriterleri:
 - ROS2'nin doğru bir şekilde kurulup çalıştırılması.
